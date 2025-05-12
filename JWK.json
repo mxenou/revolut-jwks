@@ -1,7 +1,6 @@
 {
   "keys": [
     {
-      "alg": "PS256",
       "e": "AQAB",
       "n": "pbx3EzJs88tf5X4L0IBstl_Tz4pZRkbQGEU0hlZpMnWpMgGwVIL-X2oevD8guDnafeUCcRK7JSKxzDQr0vkEqUTkw2AiVsUh_lvZHfTiCQJ_yJb-JWK0MhA-dcmWg7oWFwM5SUqKANfhOAb3BadJZchMZbmLWumjO4T6yJJXY8zcAaWhBi0UAOYyRVU5Um2M9k93SM4gRrhYj9EyPNuk57ESIviJf7SOZNNJNzsiDV95n2jsD9QH-DqyIN8cNK7_yCD7nnixYXLrWMLHUPAeEybvihGm8wg6PpTNqi8vdpPsQrFUr6fEB9F_Pn78Got9ZjfkU_hWzwiqPfN5HjWUow",
       "kid": "KID1234",
